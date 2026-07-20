@@ -51,4 +51,4 @@ File encryption support
 
 Additional cipher implementations
 
-Input validation enhancements
+Input validation enhancements.
